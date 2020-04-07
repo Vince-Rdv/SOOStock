@@ -1,0 +1,2 @@
+# SOOStock
+Inventory management tool
